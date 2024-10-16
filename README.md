@@ -1,4 +1,4 @@
-A modpack created for the Minecraft server of Notre Dame High School.
+A modpack created for our Minecraft Server. Includes tech/engineering mods, as well as mods that revamp the structure generation.
 
 <details open>
 <summary>Mod List:</summary>
