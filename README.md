@@ -3,6 +3,7 @@ A modpack created for the Minecraft server of Notre Dame High School.
 <details open>
 <summary>Mod List:</summary>
 <br>
+  
 3D Skin Layers
   
 Applied Energistics 2
